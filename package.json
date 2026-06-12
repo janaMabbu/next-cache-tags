@@ -1,5 +1,5 @@
 {
-  "name": "next-cachetags",
+  "name": "nextjs-cache-tags",
   "version": "0.1.0",
   "description": "Type-safe cache tag definitions for Next.js.",
   "keywords": [
